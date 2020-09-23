@@ -7,22 +7,17 @@
 
 제작자: Tim23
 
-
-
-
 # 사용 방법
 콘솔에 git clone https://github.com/dfdddfd/Discord.py-CleanBot.git 를 입력합니다
+
+콘솔에 `pip install -r requirements.txt`를 해서 의존성을 모두 설치합니다. (필요 모듈 : discord.py, colorama)
 
 token과 prefix를 수정해주세요
 
 또 NUKE CONFIG 아래에 있는 spam_message, channel_names, webhook_usernames 부분을 마음대로 수정해주세요
-
-# 필요 묘듈
-discord.py, colorama
 
 # 질문 사항
 질문 사항은 이슈에 남겨드리면 답해드리겠습니다
 
 # 주의사항
 git 설치 필요
-
